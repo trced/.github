@@ -1,15 +1,15 @@
 # .github
 
-Ce dépôt porte ce qui appartient à l'organisation plutôt qu'à une application.
+This repository holds what belongs to the organisation rather than to an app.
 
-| Fichier | Où il apparaît |
+| File | Where it shows up |
 | --- | --- |
-| `profile/README.md` | la page publique [github.com/trced](https://github.com/trced) |
+| `profile/README.md` | the public page [github.com/trced](https://github.com/trced) |
 
-Chaque application garde ses propres `CONTRIBUTING.md`, `SECURITY.md`,
-`CODE_OF_CONDUCT.md` et `CHANGELOG.md` : ce qui se lit à côté du code y reste.
-Ce dépôt ne sert qu'à ce qui n'a pas d'application à qui appartenir.
+Every app keeps its own `CONTRIBUTING.md`, `SECURITY.md`, `CODE_OF_CONDUCT.md`
+and `CHANGELOG.md`: what is read next to the code stays next to the code. This
+repository only carries what has no app to belong to.
 
-La liste des applications et leurs versions vivent dans `profile/README.md` :
-elle est à mettre à jour quand une application sort, en même temps que la
-section « applications » de [trced.vercel.app](https://trced.vercel.app).
+The apps and their versions are listed in `profile/README.md`: update it when an
+app ships, at the same time as the "apps" section of
+[trced.vercel.app](https://trced.vercel.app).
