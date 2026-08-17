@@ -1,6 +1,6 @@
 # trced.
 
-![apps](https://img.shields.io/badge/apps-2%20shipped-17181a)
+![apps](https://img.shields.io/badge/apps-3%20shipped-17181a)
 ![licence](https://img.shields.io/badge/licence-AGPL--3.0--or--later-17181a)
 ![PWA](https://img.shields.io/badge/PWA-offline-17181a)
 ![tracking](https://img.shields.io/badge/tracking-none-17181a)
@@ -17,6 +17,7 @@ any time. Designed and built end to end, from design system to production.
 | --- | --- | --- | --- |
 | [**habit.**](https://habit-eight-blue.vercel.app/) | one week, one grid | `v0.1.1` | [trced/habit](https://github.com/trced/habit) |
 | [**race.**](https://race-ochre.vercel.app/) | all your races, one line each | `v0.1.2` | [trced/race](https://github.com/trced/race) |
+| [**urge.**](https://urge-omega.vercel.app/) | one urge, thirty days, one question | `v0.1.0` | [trced/urge](https://github.com/trced/urge) |
 | … | more will follow, one at a time | | |
 
 ## Principles
