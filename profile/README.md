@@ -15,8 +15,8 @@ any time. Designed and built end to end, from design system to production.
 
 | app | what it does | version | source |
 | --- | --- | --- | --- |
-| [**habit.**](https://habit-eight-blue.vercel.app/) | one week, one grid | `v0.1.0` | [trced/habit](https://github.com/trced/habit) |
-| [**race.**](https://race-ochre.vercel.app/) | all your races, one line each | `v0.1.0` | [trced/race](https://github.com/trced/race) |
+| [**habit.**](https://habit-eight-blue.vercel.app/) | one week, one grid | `v0.1.1` | [trced/habit](https://github.com/trced/habit) |
+| [**race.**](https://race-ochre.vercel.app/) | all your races, one line each | `v0.1.2` | [trced/race](https://github.com/trced/race) |
 | … | more will follow, one at a time | | |
 
 ## Principles
